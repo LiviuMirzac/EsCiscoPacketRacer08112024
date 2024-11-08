@@ -1,0 +1,9 @@
+﻿Liviu Mirzac
+
+
+I motivi per qui usiamo 4 Vlan sono:
+Sicurezza: grazie alla segmentazione della rete si può limitare l’accesso dei gruppi alla rete, in questo modo gli studenti possono inviare pacchetti tra loro, ma non all'amministratore.
+Rete semplificata: E’ possibile imporre regole di sicurezza diverse per i vari gruppi.
+Ottimizzazione della Rete: Visto che ogni rette è isolata, il lavoro su una rete è distribuito in maniera più efficiente.
+Isolamento Traffico: Il traffico generato dagli studenti non influisce il traffico generato dai docenti.
+Risoluzione Semplificata dei Problemi: In caso di danni, problemi di connettività o di sicurezza, il team può indagare su una Vlan specifica.
